@@ -1,0 +1,5 @@
+function greeting(age){
+var name= prompt("name please?");
+alert("hi " + name + ",your age?" + age);
+}
+greeting(20);
